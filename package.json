@@ -1,0 +1,22 @@
+{
+  "name": "patatap-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadahmedtaj/Patatap-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadahmedtaj/Patatap-Clone/issues"
+  },
+  "homepage": "https://jawadahmedtaj.github.io/PatatapClone",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
